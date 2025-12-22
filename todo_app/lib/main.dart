@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:to_do_app/pages/util/todo_tile.dart';
+import 'package:todo_app/pages/util/todo_tile.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
